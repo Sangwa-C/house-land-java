@@ -4,6 +4,7 @@ public class Lands {
     private String location;
     private String description;
     private String price;
+    private String purpose;
     private int plotNumber;
 
     public Lands(String location, String description, String price, int plotNumber) {
